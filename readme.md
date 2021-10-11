@@ -1,3 +1,1 @@
-# ololo
-
-ololo v2
+# JS learning
